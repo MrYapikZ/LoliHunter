@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: center;
+    margin: center;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #C30022;
+    color: #f5f5f5;
+    border-radius: 1000px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-decoration-line: none;
+    border: none;
+    width: 750px;
+    height: 275px;
+    font-size: 130px;
+    font-weight: 1700;
+  }
